@@ -18,7 +18,7 @@ body {
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #A0521A;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #0776d1;  /* âmbar escuro — texto branco tem contraste AA */
     color: #1c0da3;
     text-align: center;
     padding: 24px 16px;
@@ -111,7 +111,7 @@ blockquote {
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #3B2A1E;
+    background-color: #211f22;
     color: #FFFFFF;
     text-align: center;
     padding: 16px;
