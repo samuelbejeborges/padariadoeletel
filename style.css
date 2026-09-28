@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: #f9f9fa;
+    color: #0b0b91;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -52,7 +52,7 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #c116f5;
+    border-left: 4px solid #000000;
     margin: 0 0 16px;
     padding: 8px 16px;
     background-color: #FDEEDC;
@@ -99,14 +99,14 @@ blockquote {
 
 .tabela-cardapio th,
 .tabela-cardapio td {
-    border: 1px solid #E0C9A6;
+    border: 1px solid #d7ddff;
     padding: 10px;
     text-align: left;
 }
 
 .tabela-cardapio thead {
     background-color: #13788a;
-    color: #faf7f7;
+    color: #523f3f;
 }
 
 /* ===== Rodapé ===== */
